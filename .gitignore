@@ -51,10 +51,13 @@ android/app/signing/key.jks
 android/app/signing/signing.gradle
 
 # Firebase Settings Files
+ios/firebase_app_id_file.json
 ios/Runner/GoogleService-Info.plist
 # Firebase Settings Files
+android/app/google-services.json
 android/app/src/debug/google-services.json
 android/app/src/release/google-services.json
+lib/firebase_options.dart
 
 # Created by https://www.toptal.com/developers/gitignore/api/flutter,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=flutter,macos
